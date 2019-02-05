@@ -23,4 +23,17 @@ https://medium.com/@hafizmohammedg/configuring-client-certificates-on-iis-95aef4
 
 #App Development
 
+## Links:
+https://github.com/ppedvAG/190205_Xamarin_MUC
 https://visualstudio.microsoft.com/de/vs/msft-android-emulator/
+https://blogs.msdn.microsoft.com/visualstudio/2019/01/24/visual-studio-2019-preview-2-is-now-available/
+
+
+## Bilderseiten:
+http://placekitten.com/100/100
+https://baconmockup.com/300/200/
+http://www.fillmurray.com/g/200/300
+http://www.placecage.com/200/300
+https://www.stevensegallery.com/g/200/300
+
+
