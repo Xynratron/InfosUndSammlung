@@ -20,3 +20,7 @@ https://geekflare.com/openssl-commands-certificates/
 
 ## IIS Client Certificate Authentication
 https://medium.com/@hafizmohammedg/configuring-client-certificates-on-iis-95aef4174ddb
+
+#App Development
+
+https://visualstudio.microsoft.com/de/vs/msft-android-emulator/
